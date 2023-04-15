@@ -3,9 +3,5 @@ test
 
 Test 123 new things added
 
-<<<<<<< HEAD
 
-Update in main
-=======
 Update 2
->>>>>>> dhruvbranch
